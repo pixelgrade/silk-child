@@ -1,0 +1,20 @@
+/*
+ Theme Name: Silk Child
+ Theme URI: https://pixelgrade.com/demos/silk/
+ Author: Pixelgrade
+ Author URI: https://pixelgrade.com/
+ Description: An enchanting magazine style theme for fashion bloggers, prized for its smart layout and smooth animations. Whether you're looking to share your own thoughts, write about your latest findings or just have a scrapbook of photos, SILK is designed to fulfill these and a lot more.
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain: silk
+ Domain Path: /languages/
+ Tags: accessibility-ready, light, white, one-column, two-columns, three-columns, right-sidebar, responsive-layout, custom-menu, featured-images, editor-style, infinite-scroll, microformats, post-formats, rtl-language-support, site-logo, sticky-post, theme-options, threaded-comments, translation-ready, blog, fashion, journal, lifestream, magazine, news, scrapbooking, video, bright, clean, elegant, geometric, glamorous, minimal, modern, sophisticated
+ Template: silk
+*/
+
+/* ADD YOUR NEW CSS RULES HERE */
+
+/* This file assumes you wish to add new CSS rules that will overwrite the ones in the parent's CSS files
+If you wish however, you can copy the whole style.css file from the parent here and hack at it - see functions.php for more details.
+In that case please remember that you still need to retain the header above (replace the header of the parent style.css with the one above),
+specifically the 'Template: hive' line. */
